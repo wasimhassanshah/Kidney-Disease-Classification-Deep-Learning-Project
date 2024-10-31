@@ -1,0 +1,10 @@
+^D:\KIDNEY-DISEASE-CLASSIFICATION-DEEP-LEARNING-PROJECT\BUILD\CMAKEFILES\2E0ED4CA62D6B2B8632AEF258FD8132B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Kidney-Disease-Classification-Deep-Learning-Project -BD:/Kidney-Disease-Classification-Deep-Learning-Project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Kidney-Disease-Classification-Deep-Learning-Project/build/cnnClassifier.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

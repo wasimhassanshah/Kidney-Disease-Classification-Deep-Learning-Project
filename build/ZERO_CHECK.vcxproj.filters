@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Kidney-Disease-Classification-Deep-Learning-Project\build\CMakeFiles\2e0ed4ca62d6b2b8632aef258fd8132b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B2E8C5DD-93EF-33EB-8B4F-DAB2AE6DBD1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

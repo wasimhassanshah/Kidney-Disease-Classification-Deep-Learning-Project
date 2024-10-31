@@ -1,0 +1,2 @@
+D:/Kidney-Disease-Classification-Deep-Learning-Project/build/CMakeFiles/ALL_BUILD.dir
+D:/Kidney-Disease-Classification-Deep-Learning-Project/build/CMakeFiles/ZERO_CHECK.dir
